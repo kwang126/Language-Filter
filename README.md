@@ -1,4 +1,4 @@
-# Assignment 7
+# Language Filter
 
 This assignment is a language filter that takes in input and detects any badspeak
 (strictly forbidden word) and oldspeak (has a replacement newspeak word). If only
